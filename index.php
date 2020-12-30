@@ -9,6 +9,6 @@
     </head>
 
     <body>
-        <p>Hello, world!</p>
+        <p>Hello, world! The year is <?php echo date('Y'); ?>.</p>
     </body>
 </html>
